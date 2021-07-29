@@ -37,7 +37,7 @@ function Header() {
   }
     return (
         <Nav>
-             <Logo src="/images/logo.svg"/>
+             <Logo src="/public/images/logo.svg"/>
              {  userName  ? (
                <LogoContainer>
                <Login onClick={signIn}>Login</Login>
