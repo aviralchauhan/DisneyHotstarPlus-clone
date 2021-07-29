@@ -4,10 +4,10 @@ function Viewers() {
     return (
         <Container>
             <Wrap>
-            <img src="/images/viewers-disney.png" />
+            <img src="/public/images/viewers-disney.png" />
             </Wrap>
             <Wrap>
-            <img src="/images/viewers-pixar.png" />
+            <img src="public/images/viewers-pixar.png" />
             </Wrap>
             <Wrap>
             <img src="/images/viewers-marvel.png" />
